@@ -1,9 +1,12 @@
 ## Hi there 👋
 
+My main tech stack is react, typescript, tailwind, and framer motion. 
+My favorite tools are figma, framer and affinity.
 <!--
 **felipeaguena/felipeaguena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
